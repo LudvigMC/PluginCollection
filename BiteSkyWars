@@ -1,0 +1,6 @@
+ {
+        "name":BiteSkywars "",  
+        "desc":"Easy custom Skywars plugin",  
+        "jarName": "BiteSkyWars.jar",  
+        "configName": "BiteSkyWars"  
+    }
